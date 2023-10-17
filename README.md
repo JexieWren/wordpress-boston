@@ -207,8 +207,6 @@ For organizations seeking to optimize and extend their WordPress deployments, ad
 
 - [React Website for Learning React](https://reactjs.org/) - The main resource for learning React from its creators. 
 
-- [React Router Documentation](https://reactrouter.com/docs/en/v6) - Official React Router docs for client-side routing. 
-
 - [WordPress CLI Documentation](https://developer.wordpress.org/cli/commands/) - Documentation for the WP-CLI tool used to manage WordPress.
 
 - [GraphQL Docs](https://graphql.org/learn/) - Intro guide to learning GraphQL from the maintainers. 
